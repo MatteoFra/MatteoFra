@@ -1,9 +1,9 @@
-# 🤠 About Me:
-- 🚀 I am currently training as an application architect/developer at Digifab.fr
-- 🐙 I am looking to collaborate on javascript technologies (nodejs, frameworks, libraries)
-- 🌱 I am currently learning to manipulate SQL, noSQL, GraphQL data, with different js frameworks
+# About Me 🤠
+### 🚀 I am currently training as an application architect/developer at [Digifab](https://digifab.fr/)
+### 🐙 I am looking to collaborate on javascript technologies (nodejs, frameworks, libraries)
+### 🌱 I am currently learning to manipulate SQL, noSQL, GraphQL data, with different js frameworks
 
-- ⚡ I am looking for an internship and why not a job after graduating ⚡
+### ⚡ I am looking for an internship and why not a job after graduating ⚡
 
 
 ## 🌐 Socials:
